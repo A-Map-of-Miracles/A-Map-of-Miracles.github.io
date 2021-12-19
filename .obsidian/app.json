@@ -1,0 +1,13 @@
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Schucman",
+    "Thetford"
+  ],
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "trashOption": "local"
+}
