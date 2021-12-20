@@ -6,6 +6,7 @@ template:: book
 - [[Preface]]
 - [[Chapter 1 - The Meaning of Miracles]]
 - [[Chapter 2 - The Separation and the Atonement]]
+- [[Chapter 3]]
 -
 -
 -
