@@ -1,1 +1,1 @@
-- This is not a course in philosophical speculation, nor is it concerned with precise terminology. It is cocnerned only with atonement, or the corection of perception.
+- This is not a course in philosophical speculation, nor is it concerned with precise terminology. It is concerned only with [[Atonement]], or the correction of perception. The means of the Atonement is forgiveness. The structure of the "individual consciousness" is essentially irrelevant becuase it is ia concept representing the "original error" or the "original sin."
