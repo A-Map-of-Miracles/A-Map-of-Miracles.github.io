@@ -11,4 +11,4 @@ previous-text:: [[29. As For The Rest...]]
 - The ego will demand many answers that this course does not give. It does not recognie as questions the mere form of a quesiton to which an answer is impossible. The ego may ask, "How did the impossible occur?", "To what did the impossible happen?", and may ask this in many forms. Yet there is no answer; only an experience. Seek only this, and do not let theology delay you.
 - You will notice that the emphasis on structural issues in the course is brief and early. Afterwards and soon, it drops away to make way for the central teaching. Since you have asked for clarification, however, these are some of the terms that are used.
 -
--
+- Next
