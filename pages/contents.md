@@ -1,1 +1,5 @@
+- [[Spanish / Español]]
+- [[French / Francais]]
+- [[Portuguese / Portugûes]]
+- [[Italian / Italiano]]
 -
