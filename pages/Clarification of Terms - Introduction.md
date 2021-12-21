@@ -1,0 +1,1 @@
+- This is not a course in philosophical speculation, nor is it concerned with precise terminology. It is cocnerned only with atonement, or the corection of perception.
