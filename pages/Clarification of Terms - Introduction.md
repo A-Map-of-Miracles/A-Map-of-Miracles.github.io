@@ -1,10 +1,7 @@
 alias:: terms-intro, ct-intro
 language:: english
 text-type:: section
-next-text:: [[1. Mind - Spirit]]
-previous-text:: [[29. As For The Rest...]]
 
--
 - This is not a course in philosophical speculation, nor is it concerned with precise terminology. It is concerned only with [[Atonement]], or the correction of perception. The means of the Atonement is forgiveness. The structure of the "individual consciousness" is essentially irrelevant because it is a concept representing the "original error" or the "original sin." To study the error itself does not lead to correction, if you are indeed to succeed in overlooking the error. And it is just his process of over-looking at which the course aims.
 - All terms are potentially controversial, and those who seek [[controversy]] will find it. Yet those who seek clarification will find it as well. They must, however, be willing to overlook controversy, recognising that it is a [[defence]] against truth in the form of a delaying manoeuvre. Theological considerations as such are necessarily controversial, since they depend on [[belief]] and can therefore be accepted or rejected. A universal theology is impossible, but a universal experience is not only possible but necessary. It is this experience toward which the course is directed. Here alone [[consistency]] becomes possible because here alone [[uncertainty]] ends.
 - This course remains within the ego framework, where it is needed. It is not concerned with what is beyond all error because it is planned only to set the direction towards it. Therefore it uses words, which are symbolic, and cannot express what lies beyond symbols. It is merely the ego that questions because it is only the ego that doubts. The course merely gives another answer, once a question has been raised. However, this answer does not attempt to resort to inventiveness or ingenuity. These are attributes of the ego. _The course is simple._ It has one function and one goal. Only in that does it remain wholly consistent because only that can _be_ consistent.
