@@ -14,7 +14,4 @@ previous-text:: [[29. As For The Rest...]]
 - ^^Next Section:^^ [[1. Mind - Spirit]]; ^^Previous Section:^^ [[29. As For The Rest...]] 
   collapsed:: true
   template:: NextPrev-Section
-- Next Section: [[1. Mind - Spirit]]
-  collapsed:: true
-  Previous Section: [[29. As For The Rest...]]
 -
