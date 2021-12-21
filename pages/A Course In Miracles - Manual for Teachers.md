@@ -4,4 +4,6 @@ alias:: Manual, manual
 - [[1. Who are God's Teachers]]
 - [[2. Who are their Pupils?]]
 -
-- 2
+- [[29. As For The Rest...]]
+- [[Clarification of Terms]]
+-
