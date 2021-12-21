@@ -1,1 +1,5 @@
-synonyms:: uns
+synonyms:: unsure
+antonyms:: [[certainty]]
+
+-
+-
