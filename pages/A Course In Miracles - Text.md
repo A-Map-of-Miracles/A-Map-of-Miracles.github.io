@@ -9,6 +9,11 @@ template:: book
 - [[Chapter 3 - The Innocent Perception]]
 - [[Chapter 4 - The Illusions of the Ego]]
 - [[Chapter 5 - Healing and Wholeness]]
+- [[Chapter 6 - The Lessons of Love]]
+- [[Chapter 7 - The Gifts of the Kingdom]]
+- [[Chapter 8 - the Journey Back]]
+- Chapter 9 - The Acceptance of the Atonement
+- [[Chapter 10 - The Idols of Sickness]]
 -
 -
 -
