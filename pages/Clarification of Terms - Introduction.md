@@ -1,7 +1,6 @@
 alias:: terms-intro, ct-intro
 language:: english
-text-
-type:: section
+text-type:: section
 next-text:: [[1. Mind - Spirit]]
 previous-text:: [[29. As For The Rest...]]
 
