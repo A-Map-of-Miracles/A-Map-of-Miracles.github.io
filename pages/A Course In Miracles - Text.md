@@ -12,8 +12,9 @@ template:: book
 - [[Chapter 6 - The Lessons of Love]]
 - [[Chapter 7 - The Gifts of the Kingdom]]
 - [[Chapter 8 - the Journey Back]]
-- Chapter 9 - The Acceptance of the Atonement
+- [[Chapter 9 - The Acceptance of the Atonement]]
 - [[Chapter 10 - The Idols of Sickness]]
+-
 -
 -
 -
