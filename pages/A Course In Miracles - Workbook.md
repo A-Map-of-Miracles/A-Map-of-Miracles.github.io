@@ -77,4 +77,7 @@ alias:: workbook, Workbook, lessons, Lessons;
 - ### [[2. What is Salvation?]]
 - [[Lesson 231: Father, I will but to remember You.]]
 -
+- [[Lesson 240: Fear is not justified in any form.]]
 -
+-
+  ###
