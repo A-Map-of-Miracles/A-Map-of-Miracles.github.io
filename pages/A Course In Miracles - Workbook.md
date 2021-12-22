@@ -21,4 +21,7 @@ alias:: workbook, Workbook, lessons, Lessons;
 - [[Workbook: Review 2 - Introduction]]
 - [[Lesson 81: Review lessons 61 - 62]]
 -
+- [[Lesson 90: Review lessons 79 - 80]]
+-
+- [[Lesson 91: Miracles are seen in light.]]
 -
