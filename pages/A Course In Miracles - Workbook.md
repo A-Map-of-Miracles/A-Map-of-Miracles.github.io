@@ -1,7 +1,7 @@
 alias:: workbook, Workbook, lessons, Lessons;
 
 - [[Workbook - Introduction]]
-- ## Part 1
+- # Part 1
 - [[Lesson 1: Nothing I see means anything.]]
 - [[Lesson 2: I have given everything I see...all the meaning that it has for me.]]
 -
@@ -51,4 +51,6 @@ alias:: workbook, Workbook, lessons, Lessons;
 - [[Lesson 170: There is no cruelty in God and none in me.]]
 -
 - ### Review V
+- [[Workbook: Review V - Introduction]]
+- [[Lesson 171: Review lessons 151-152]]
 -
