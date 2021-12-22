@@ -46,4 +46,9 @@ alias:: workbook, Workbook, lessons, Lessons;
 - Lesson 150: Review lessons 139-140
 -
 - [[Lesson 151: All things are echoes of the Voice for God.]]
+- [[Lesson 152: the power of decision is my own.]]
+-
+- [[Lesson 170: There is no cruelty in God and none in me.]]
+-
+- ### Review V
 -
