@@ -10,7 +10,7 @@
 	- As its title implies, the Course is arranged throughout as a [[teaching]] device. It consists of three books: a 669-page Text, a 488-page Workbook for Students, and a 92-page Manual for Teachers. The order in which students choose to use the books, and the ways in which they study them, depend on their particular needs and preferences.
 	- The [[curriculum]] the Course proposes is carefully conceived and is explained, step by step, at both the theoretical and practical level. It emphasises application rather than theory, and experience rather than theology. It specifically states that "a universal theology is impossible, but a universal experience is not only possible but necessary" ([Manual, p.77](((61c1a6d6-ee2e-436c-bc75-594561a641d2)))). Although Christian in statement, the Course deals with universal spiritual themes. It emphasises that it is but one version of the universal curriculum. There are many others, this one differing from them only in form. They all lead to God in the end.
 	- The text is largely theoretical, and sets forth the concepts on which the Course's thought system is based. Its ideas contain the foundation for the Workbook's lessons. Without the practical application the Workbook provides, the text would remain largely a series of abstractions which would hardly suffice to bring about the thought reversal at which the Course Aims.
-	-
+	- The Workbook includes 365 le
 -
 - ^^Next Chapter:^^ [[Chapter 1 - The Meaning of Miracles]]
 -
