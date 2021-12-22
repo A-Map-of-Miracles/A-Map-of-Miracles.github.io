@@ -70,4 +70,11 @@ alias:: workbook, Workbook, lessons, Lessons;
 - # Part II
 - [[Workbook: Part II - Introduction]]
 - ### [[1. What is Forgiveness?]]
+- [[Lesson 221: Peace to my mind. Let all my thoughts be still.]]
+-
+- [[Lesson 230: Now will i seek and find the peace of God.]]
+-
+- ### [[2. What is Salvation?]]
+- [[Lesson 231: Father, I will but to remember You.]]
+-
 -
