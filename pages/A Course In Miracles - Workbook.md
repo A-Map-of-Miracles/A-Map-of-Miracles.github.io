@@ -7,12 +7,18 @@ alias:: workbook, Workbook, lessons, Lessons;
 -
 - [[Lesson 50: I as sustained by the Love of God.]]
 -
-- ### Review 1
+- ### Review I
 - [[Workbook: Review 1 - Introduction]]
 - Lesson 51: Review lessons 1 - 5
 -
 - Lesson 60: Review lessons 46 - 50
 -
 - [[Lesson 61: I am the light of the world.]]
+-
+- [[Lesson 80: Let me recognise my problems have been solved.]]
+-
+- ### Review II
+- [[Workbook: Review 2 - Introduction]]
+- [[Lesson 81: Review lessons 61 - 62]]
 -
 -
