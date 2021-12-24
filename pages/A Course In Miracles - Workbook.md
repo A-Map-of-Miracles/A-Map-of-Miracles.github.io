@@ -125,4 +125,9 @@ alias:: workbook, Workbook, lessons, Lessons;
 - [[lesson 330: I will not hurt myself again today.]]
 -
 - ### [[12. What Is the Ego?]]
+- [[Lesson 331: There is no conflict, for my will is Yours.]]
 -
+- [[Lesson 340: I can be free of suffering today.]]
+-
+-
+  ###
