@@ -18,10 +18,6 @@ alias:: workbook-epilogue
 - ##### W.epilogue.6
 	- language:: english
 	  We trust our ways to Him and say " [[Amen]] ." In peace we will continue in His way, and trust all things to Him. In confidence we wait His answers, as we ask His Will in everything we do. He loves God's Son as we would love him. And He teaches us how to behold him through His eyes, and love him as He does. You do not walk alone. God's angels hover near and all about. His Love surrounds you, and of this be sure; that [[I]] will never leave you comfortless.
-	-
-	-
-	-
-	-
-	-
 -
--
+- ^^Next Section:^^ [[1. Mind - Spirit]]; ^^Previous Section:^^
+  collapsed:: true
