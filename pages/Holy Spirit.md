@@ -1,4 +1,4 @@
-alias:: the holy spirit, the Holy Spirit
+alias:: the holy spirit, the Holy Spirit, Him, him
 see-also:: [[Your Friend]],
 
 -
