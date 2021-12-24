@@ -89,5 +89,10 @@ alias:: workbook, Workbook, lessons, Lessons;
 -
 - [[Lesson 260: Let me remember God created me.]]
 -
+- ### [[5. What Is the Body?]]
+- [[Lesson 261: God is my refuge and my security.]]
 -
-  ###
+- [[Lesson 270: I will not use the body's eyes today.]]
+-
+- ### [[6. What Is the Christ?]]
+-
