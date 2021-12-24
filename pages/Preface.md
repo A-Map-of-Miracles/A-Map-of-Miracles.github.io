@@ -17,8 +17,11 @@
 	- Finally, the [[Manual for Teachers]], which is written in question and answer form, provides answers to some of the more likely questions a student might ask. It also includes a clarification of a number of the terms the Course uses, explaining them within the [[theoretical framework]] of the Text.
 	- [[The Course]] makes no claim to finality, nor are the [[workbook]] lessons intended to bring the student's learning to completion. At the end, the reader is left in the hands of his or her own [[Internal Teacher]] , Who will direct all subsequent learing as He sees fit. While [[The Course]] is comprehensive in scope, truth canot be limited to any finite form, as is clearly recognized in the statement at the end of the [[workbook]] :
 		- [This course is a beginning, not an end.](((61c5774a-43bc-4bdd-9f17-b6645ff7aa51))) ... [No more specific lessons are assigned, for there is no more need of them. Henceforth, hear but the Voice for God and for your Self when you retire from the world, to seek reality instead. He will direct your efforts, telling you exactly what to do, how to direct your mind, and when to come to Him in silence, asking for His sure direction and His certain Word.](((fc813166-a6c2-4a9b-9713-0de060658219)))
--
 - ## What It Says
+- >_Nothing real can be threatened.
+  Nothing unreal exists.
+  Herein lies the peace of God._
+-
 -
 -
 -
