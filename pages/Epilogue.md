@@ -14,7 +14,11 @@ alias:: workbook-epilogue
 	  And now I place you in His hands, to be His faithful follower, with Him as Guide through every difficulty and all pain that you may think is real. Nor will He give you pleasures that will pass away, for He gives only the eternal and the good. Let Him prepare you further. He has earned your trust by speaking daily to you of your Father and your brother and your Self. He will continue. Now you walk with Him, as certain as is He of where you go; as sure as He of how you should proceed; as confident as He is of the goal, and of your safe arrival in the end.
 - ##### W.epilogue.5
 	- language:: english
-	  The end is certain, and [[the means]] as well. To this we say "Amen." You will be told exactly what God wills for you each time there is a choice to make. And he will speak for God and for your Self, thus making sure that hell will claim you not, and that each choice you make brings Heaven nearer to your reach. And so we walk with Him from this time on, and turn to Him for guidance and for peace and sure direction. Joy attends our way. For we go
+	  The end is certain, and [[the means]] as well. To this we say "Amen." You will be told exactly what God wills for you each time there is a choice to make. And he will speak for God and for your Self, thus making sure that hell will claim you not, and that each choice you make brings Heaven nearer to your reach. And so we walk with Him from this time on, and turn to Him for guidance and for peace and sure direction. Joy attends our way. For we go homeward to an open door which God has held unclosed to welcome us.
+- ##### W.epilogue.6
+	- language:: english
+	  We trust our ways to Him and say "Amen." In peace we will continue in His way, and trust all things to Him. In confidence we wait His answers, as we ask His Will in everything we do
+	-
 	-
 	-
 	-
