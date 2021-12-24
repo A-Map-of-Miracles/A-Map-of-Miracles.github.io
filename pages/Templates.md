@@ -1,5 +1,5 @@
 - ##### T.
-  template:: paragraph referenced
+  template:: paragraph text, referenced with translations
   A
 - ##### W.pI.
   template:: workbook lesson

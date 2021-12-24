@@ -6,4 +6,4 @@ alias:: workbook-epilogue
 - ##### W.Epilogue.2
 	- You are as certain of arriving home as is the pathway of the sun laid down before it rises, after it has set, and in the half-lit hours in between. Indeed, your pathway is more certain still.
 -
-- {{embed ((ref:))}}
+-
