@@ -9,6 +9,9 @@ alias:: workbook-epilogue
 - ##### W.epilogue.3
 	- language:: english
 	  No more specific lessons are assigned, for there is no more need of them. Henceforth, hear but the Voice for God and for your Self when you retire from the world, to seek reality instead. He will direct your efforts, telling you exactly what to do, how to direct your mind, and when to come to Him in silence, asking for His sure direction and His certain Word. His is the Word that God has given you. His is the Word you chose to be your own.
+-
+	- language:: english
+	  A
 	-
 	-
 	-
