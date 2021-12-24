@@ -11,6 +11,7 @@ alias:: workbook-epilogue
 	  You are as certain of arriving home as is the pathway of the sun laid down before it rises, after it has set, and in the half-lit hours in between. Indeed, your pathway is more certain still. For it can not be possible to change the course of those whom God has called to Him Therefore obey your will, and follow Him Whom you accepted as your voice, to speak of what you really want and really need. His is the Voice for God and also yours. And thus He speaks of freedom and of truth.
 - ##### W.epilogue.3
 	- language:: english
+	  id:: fc813166-a6c2-4a9b-9713-0de060658219
 	  No more specific lessons are assigned, for there is no more need of them. Henceforth, hear but the Voice for God and for your Self when you retire from the world, to seek reality instead. He will direct your efforts, telling you exactly what to do, how to direct your mind, and when to come to Him in silence, asking for His sure direction and His certain Word. His is the Word that God has given you. His is the Word you chose to be your own.
 - ##### W.epilogue.4
 	- language:: english
