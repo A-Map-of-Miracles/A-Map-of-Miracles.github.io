@@ -1,4 +1,4 @@
-alias:: ACIM-text, text
+alias:: ACIM-text, text, The Course,
 language:: [[English]]
 text-type:: book
 template:: book
