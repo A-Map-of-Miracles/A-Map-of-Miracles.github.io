@@ -6,7 +6,10 @@ alias:: workbook-epilogue
 - ##### W.epilogue.2
 	- language:: english
 	  You are as certain of arriving home as is the pathway of the sun laid down before it rises, after it has set, and in the half-lit hours in between. Indeed, your pathway is more certain still. For it can not be possible to change the course of those whom God has called to Him Therefore obey your will, and follow Him Whom you accepted as your voice, to speak of what you really want and really need. His is the Voice for God and also yours. And thus He speaks of freedom and of truth.
--
+- ##### W.epilogue.3
+	- language:: english
+	  No more specific lessons are assigned, for there is no more need of them. Henceforth, hear but the Voice for God
+	-
 	-
 -
 -
