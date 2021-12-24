@@ -21,7 +21,7 @@
 - >_Nothing real can be threatened.
   Nothing unreal exists.
   Herein lies the peace of God._
--
+- This is how _A Course In Miracles_ begins. It makes a fundamental distinction between the real and the unreal; between knowledge and perception. Knowl
 -
 -
 -
