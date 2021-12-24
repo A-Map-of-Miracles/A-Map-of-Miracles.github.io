@@ -21,7 +21,8 @@
 - >_Nothing real can be threatened.
   Nothing unreal exists.
   Herein lies the peace of God._
-- This is how _A Course In Miracles_ begins. It makes a fundamental distinction between the real and the unreal; between knowledge and perception. Knowl
+- This is how _A Course In Miracles_ begins. It makes a fundamental distinction between the real and the unreal; between knowledge and perception. Knowledge is truth, under one law, the law of love or God. Truth is unalterable, eternal and uambigous. It can be unrecognized, but it cannot be changed. It applies to everything that God created, and only what He created is real. It is beyond learning  because it is beyond time and process. It has no opposite; no beginning and no end. It merely is.
+-
 -
 -
 -
