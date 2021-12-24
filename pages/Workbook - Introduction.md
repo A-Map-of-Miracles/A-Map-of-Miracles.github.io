@@ -8,7 +8,9 @@
   Second, be sure that you do not [[decide]] for yourself that there are some people, situations or things to which the ideas are inapplicable. This will [[interfere]] with transfer of training. The very nature of true perception is that it has no [[limits]]. It is the [[opposite]] of the way you see now.
 - The overall aim of the exercises is to increase your abiliy to extend the ideas you will be practising to include everything. This will require no effort on your part. The exercises themselves meet the conditions necessary for this kind of transfer.
 - Some of the ideas the workbook presents you will find hard to [[believe]], and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to do. You are not asked to judge them at all. You are asked only to use them. It is their use that will give them meaning to you, and will show you that they are true.
+  id:: 61c55915-45ab-4963-b969-9c8223b33ea8
 - Remember only this; you need not [[believe]] the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively [[resist]] . None of this will matter, or decrease their efficacy. But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be use them. Nothing more than that is required.
+  id:: 61c55946-79d5-49d3-a7d7-c506f0b1cf16
 -
 - ^^Next Section:^^ [[Lesson 1: Nothing I see means anything.]]
   collapsed:: true
