@@ -13,7 +13,7 @@
 	- The Workbook includes 365 lessons, one for each day of the year. It is not necessary, however, to do the lessons at that tempo, and one might want to remain with a particularly appealing lesson for more than one day. The instructions urge only that not more than one lesson a day should be attempted. The practical nature of the Workbook is underscored by the introduction to its lessons, which emphasises experience through application rather than a prior commitment to a spiritual goal:
 	- {{embed ((61c55915-45ab-4963-b969-9c8223b33ea8))}}
 	- {{embed ((61c55946-79d5-49d3-a7d7-c506f0b1cf16))}}
-- Finally, the [[Manual for Teachers]], which is written in question
+- Finally, the [[Manual for Teachers]], which is written in question and answer form, provides answers to some of the more likely questions a student might ask. It also includes a clarification of a number of the terms the Course uses, explaining them within the [[theoretical framework]] of the Text.
 -
 - ^^Next Chapter:^^ [[Chapter 1 - The Meaning of Miracles]]
 -
