@@ -102,4 +102,8 @@ alias:: workbook, Workbook, lessons, Lessons;
 - ### [[7. What Is the Holy Spirit?]]
 - [[I can be hurt by nothing but my thoughts.]]
 -
+- [[Lesson 290: My present happiness is all I see.]]
+-
+- ### [[8. What Is the Real World?]]
+- [[Lesson 291: This is a day of stillness and of peace.]]
 -
