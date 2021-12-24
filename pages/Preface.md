@@ -18,10 +18,11 @@
 	- [[The Course]] makes no claim to finality, nor are the [[workbook]] lessons intended to bring the student's learning to completion. At the end, the reader is left in the hands of his or her own [[Internal Teacher]] , Who will direct all subsequent learing as He sees fit. While [[The Course]] is comprehensive in scope, truth canot be limited to any finite form, as is clearly recognized in the statement at the end of the [[workbook]] :
 		- [This course is a beginning, not an end.](((61c5774a-43bc-4bdd-9f17-b6645ff7aa51))) ... [No more specific lessons are assigned, for there is no more need of them. Henceforth, hear but the Voice for God and for your Self when you retire from the world, to seek reality instead. He will direct your efforts, telling you exactly what to do, how to direct your mind, and when to come to Him in silence, asking for His sure direction and His certain Word.](((fc813166-a6c2-4a9b-9713-0de060658219)))
 - ## What It Says
-- >_Nothing real can be threatened.
-  Nothing unreal exists.
-  Herein lies the peace of God._
-- This is how _A Course In Miracles_ begins. It makes a fundamental distinction between the real and the unreal; between knowledge and perception. Knowledge is truth, under one law, the law of love or God. Truth is unalterable, eternal and uambigous. It can be unrecognized, but it cannot be changed. It applies to everything that God created, and only what He created is real. It is beyond learning  because it is beyond time and process. It has no opposite; no beginning and no end. It merely is.
+	- >_Nothing real can be threatened.
+	  Nothing unreal exists.
+	  Herein lies the peace of God._
+	- This is how _A Course In Miracles_ begins. It makes a fundamental distinction between the real and the unreal; between knowledge and perception. Knowledge is truth, under one law, the law of love or God. Truth is unalterable, eternal and unambigous. It can be unrecognised, but it cannot be changed. It applies to everything that God created, and only what He created is real. It is beyond learning  because it is beyond time and process. It has no opposite; no beginning and no end. It merely is.
+	- The world of perception, on the other hand, is the world of time, of change, or beginnings and endings. It is based on interpretation, not on facts.
 -
 -
 -
