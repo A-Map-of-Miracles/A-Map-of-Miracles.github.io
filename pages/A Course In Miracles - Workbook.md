@@ -120,4 +120,9 @@ alias:: workbook, Workbook, lessons, Lessons;
 - [[Lesson 320: My Father gives all power unto me.]]
 -
 - ### [[11. What Is Creation?]]
+- [[Lesson 321: Father, my freedom is in You alone.]]
+-
+- [[lesson 330: I will not hurt myself again today.]]
+-
+- ### [[12. What Is the Ego?]]
 -
