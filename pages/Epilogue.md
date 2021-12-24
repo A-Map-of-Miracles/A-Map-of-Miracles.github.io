@@ -11,7 +11,8 @@ alias:: workbook-epilogue
 	  No more specific lessons are assigned, for there is no more need of them. Henceforth, hear but the Voice for God and for your Self when you retire from the world, to seek reality instead. He will direct your efforts, telling you exactly what to do, how to direct your mind, and when to come to Him in silence, asking for His sure direction and His certain Word. His is the Word that God has given you. His is the Word you chose to be your own.
 - ##### W.epilogue.4
 	- language:: english
-	  And now I place you in His hands, to be His faithful follower, with Him as Guide through every difficulty and all pain that you may think is real. Nor will He give you pleasures that will pass away, for He gives only the eternal and the good. Let Him prepare you
+	  And now I place you in His hands, to be His faithful follower, with Him as Guide through every difficulty and all pain that you may think is real. Nor will He give you pleasures that will pass away, for He gives only the eternal and the good. Let Him prepare you further. He has earned your trust by speaking daily to you of your Father and your brother and your Self. He will continue. Now you walk with Him, as certain as is He of where you go; as sure as He of how you should proceed; as confident as He is of the goal, and of your safe arrival in the end.
+-
 	-
 	-
 	-
