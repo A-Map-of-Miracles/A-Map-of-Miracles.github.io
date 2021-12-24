@@ -5,7 +5,7 @@
 	-
 - ##### W.pI.
   template:: workbook lesson
+  **Lesson
 	- language:: english
-	  Lesson  *
 	  A
 -
