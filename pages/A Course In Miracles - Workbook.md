@@ -1,4 +1,4 @@
-alias:: workbook, Workbook, lessons, Lessons;
+alias:: workbook, Workbook, lessons, Lessons; Workbook
 
 - [[Workbook - Introduction]]
 - # Part 1
