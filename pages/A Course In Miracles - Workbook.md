@@ -85,4 +85,9 @@ alias:: workbook, Workbook, lessons, Lessons;
 - [[Lesson 250: Let me not see myself as limited.]]
 -
 - ### [[4. What Is Sin?]]
+- [[Lesson 251. I am in need of nothing but the truth.]]
 -
+- [[Lesson 260: Let me remember God created me.]]
+-
+-
+  ###
