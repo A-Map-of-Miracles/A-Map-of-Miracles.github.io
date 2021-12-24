@@ -132,4 +132,5 @@ alias:: workbook, Workbook, lessons, Lessons;
 - ### [[13. What Is a Miracle?]]
 - [[Lesson 341: I can attack but my own sinlessness, And it is only that which keeps me safe.]]
 -
+- [[Lesson 350: Miracles mirror God's eternal Love. To offer them is to remember Him, And through His memory to save the world.]]
 -
