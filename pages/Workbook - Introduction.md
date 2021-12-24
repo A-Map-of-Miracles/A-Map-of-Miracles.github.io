@@ -1,0 +1,1 @@
+- A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. Yet i
