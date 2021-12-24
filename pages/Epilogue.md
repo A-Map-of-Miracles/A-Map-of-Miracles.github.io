@@ -3,7 +3,8 @@ alias:: workbook-epilogue
 - ^^Previous Section:^^ [[Lessons 361-365: This holy instant would I give to You. Be You in charge. For I would follow You, Certain that Your direction gives me peace.]]
   collapsed:: true
 - ##### W.Epilogue.1
-	- language:: english 
+	- language:: english
+	  id:: 61c5774a-43bc-4bdd-9f17-b6645ff7aa51
 	  This course is a beginning, not an end. [[Your Friend]] goes with you. You are not [[alone]]. No one who calls on Him can call in vain. Whatever troubles you, be [[certain]] that He has the answer, and will gladly give it to you, if you simply turn to Him and ask it of Him. He will not withhold all answers that you need for anything that seems to trouble you. He knows the way to solve all problems, and resolve all doubts. His certainty is yours. You need but ask it of Him, and it will be given you.
 - ##### W.epilogue.2
 	- language:: english
