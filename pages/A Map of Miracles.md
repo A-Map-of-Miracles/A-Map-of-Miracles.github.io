@@ -13,6 +13,7 @@
 	- [[The LIfetimes When Jesus and Buddha Knew Each Other]]
 	-
 - [[Translations]]
+  id:: 61c045d1-31d6-476b-8080-2223040d24f8
   collapsed:: true
 	- [[Spanish / Español]]:
 		- [[Un Curso de Milagros]]
