@@ -1,7 +1,8 @@
 - ##### T.
   template:: paragraph text referenced with translations
-  language:: english
-  A
+	- language:: english
+	  A
+	-
 - ##### W.pI.
   template:: workbook lesson
   language:: english
