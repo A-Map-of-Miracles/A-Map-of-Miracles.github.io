@@ -141,5 +141,5 @@ alias:: workbook, Workbook, lessons, Lessons;
 -
 - ### Final Lessons
 - [[Workbook: Final Lessons - Introduction]]
-- [[Lessons 361-365: This holy instant would I give to You. Be You in charge. For I wold follow You, Certain that Your direction gives me peace.]]
+- [[Lessons 361-365: This holy instant would I give to You. Be You in charge. For I would follow You, Certain that Your direction gives me peace.]]
 -
