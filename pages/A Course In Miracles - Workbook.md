@@ -95,4 +95,11 @@ alias:: workbook, Workbook, lessons, Lessons;
 - [[Lesson 270: I will not use the body's eyes today.]]
 -
 - ### [[6. What Is the Christ?]]
+- [[Lesson 271: Christ's is the vision I will use today.]]
+-
+- [[Lesson 280: What limits can I lay upon God's Son?]]
+-
+- ### [[7. What Is the Holy Spirit?]]
+- [[I can be hurt by nothing but my thoughts.]]
+-
 -
