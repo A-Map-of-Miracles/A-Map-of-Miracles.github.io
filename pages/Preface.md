@@ -14,7 +14,9 @@
 	- {{embed ((61c55915-45ab-4963-b969-9c8223b33ea8))}}
 	- {{embed ((61c55946-79d5-49d3-a7d7-c506f0b1cf16))}}
 - Finally, the [[Manual for Teachers]], which is written in question and answer form, provides answers to some of the more likely questions a student might ask. It also includes a clarification of a number of the terms the Course uses, explaining them within the [[theoretical framework]] of the Text.
-- [[The Course]] makes no claim to finality, nor are the [[workbook]] lessons intended to bring the student's learning to completion. At the end, the reader is left in the hands of his or her ow Internal Teacher, Who will direct all subsequent learing as He sees fit. While [[The Course]] is comprehensive
+- [[The Course]] makes no claim to finality, nor are the [[workbook]] lessons intended to bring the student's learning to completion. At the end, the reader is left in the hands of his or her ow Internal Teacher, Who will direct all subsequent learing as He sees fit. While [[The Course]] is comprehensive in scope, truth canot be limited to any finite form, as is clearly recognized in the statement at the end of the Workbook:
+-
+-
 -
 -
 - ^^Next Chapter:^^ [[Chapter 1 - The Meaning of Miracles]]
