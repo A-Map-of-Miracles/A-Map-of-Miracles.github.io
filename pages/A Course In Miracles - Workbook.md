@@ -140,4 +140,6 @@ alias:: workbook, Workbook, lessons, Lessons;
 - [[Lesson 360: Peace be to me, the holy Son of God. Peace to my brother, who is one with me. Let all the world be blessed with pace through us.]]
 -
 - ### Final Lessons
+- [[Workbook: Final Lessons - Introduction]]
+- [[Lessons 361-365: This holy instant would I give to You. Be You in charge. For I wold follow You, Certain that Your direction gives me peace.]]
 -
