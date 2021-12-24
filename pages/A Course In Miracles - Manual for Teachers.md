@@ -1,4 +1,4 @@
-alias:: Manual, manual
+alias:: Manual, manual, manual for teachers, Manual for Teachers
 
 - [[Manual - Introduction]]
 - [[1. Who are God's Teachers]]
