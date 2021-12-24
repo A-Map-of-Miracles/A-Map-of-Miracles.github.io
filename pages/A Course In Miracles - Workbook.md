@@ -5,7 +5,7 @@ alias:: workbook, Workbook, lessons, Lessons;
 - [[Lesson 1: Nothing I see means anything.]]
 - [[Lesson 2: I have given everything I see...all the meaning that it has for me.]]
 -
-- [[Lesson 50: I as sustained by the Love of God.]]
+- [[Lesson 50: I am sustained by the Love of God.]]
 -
 - ### Review I
 - [[Workbook: Review 1 - Introduction]]
