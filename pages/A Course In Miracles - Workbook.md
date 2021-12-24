@@ -135,4 +135,9 @@ alias:: workbook, Workbook, lessons, Lessons;
 - [[Lesson 350: Miracles mirror God's eternal Love. To offer them is to remember Him, And through His memory to save the world.]]
 -
 - ### [[14. What Am I?]]
-- [[Lesson 351: My sinless brother is my guide to peace. My sinful rother is my guide to pain. And which I choose to see I will  ]]
+- [[Lesson 351: My sinless brother is my guide to peace. My sinful brother is my guide to pain. And which I choose to see I will behold.]]
+-
+- [[Lesson 360: Peace be to me, the holy Son of God. Peace to my brother, who is one with me. Let all the world be blessed with pace through us.]]
+-
+- ### Final Lessons
+-
