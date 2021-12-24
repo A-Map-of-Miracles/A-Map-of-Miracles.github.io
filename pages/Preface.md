@@ -12,6 +12,7 @@
 	- The text is largely theoretical, and sets forth the concepts on which the Course's thought system is based. Its ideas contain the foundation for the Workbook's lessons. Without the practical application the Workbook provides, the text would remain largely a series of abstractions which would hardly suffice to bring about the thought reversal at which the Course Aims.
 	- The Workbook includes 365 lessons, one for each day of the year. It is not necessary, however, to do the lessons at that tempo, and one might want to remain with a particularly appealing lesson for more than one day. The instructions urge only that not more than one lesson a day should be attempted. The practical nature of the Workbook is underscored by the introduction to its lessons, which emphasises experience through application rather than a prior commitment to a spiritual goal:
 	-
+	-
 -
 - ^^Next Chapter:^^ [[Chapter 1 - The Meaning of Miracles]]
 -
