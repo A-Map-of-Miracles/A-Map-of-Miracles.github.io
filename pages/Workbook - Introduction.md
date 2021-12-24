@@ -1,1 +1,2 @@
-- A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. Yet i
+- A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. Yet it is doing the exercises that will make the goal of the course possible. An untrained mind can accomplish nothing. It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
+- The exercises are very simple. They do not require a great deal
