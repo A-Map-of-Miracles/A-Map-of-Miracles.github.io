@@ -129,5 +129,7 @@ alias:: workbook, Workbook, lessons, Lessons;
 -
 - [[Lesson 340: I can be free of suffering today.]]
 -
+- ### [[13. What Is a Miracle?]]
+- [[Lesson 341: I can attack but my own sinlessness, And it is only that which keeps me safe.]]
 -
-  ###
+-
