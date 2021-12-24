@@ -107,3 +107,12 @@ alias:: workbook, Workbook, lessons, Lessons;
 - ### [[8. What Is the Real World?]]
 - [[Lesson 291: This is a day of stillness and of peace.]]
 -
+- [[Lesson 300: Only an instant does this world endure.]]
+-
+- ### [[9. What Is the Second Coming?]]
+- [[Lesson 301: And God Himself shall wipe away all tears.]]
+-
+- [[Lesson 310: In fearlessness and love I spend today.]]
+-
+-
+  ###
